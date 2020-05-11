@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/jdanray/jdanray.github.io.git
+	branch = master
