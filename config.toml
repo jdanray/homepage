@@ -25,10 +25,10 @@ disqusShortname = ""
 	keywords = ["hugo","vitae","theme","static"]
 
 	# Add meta description in head part
-	description = "Vitae is a blog theme for Hugo that focuses on your content."
+	description = "Computer science and programming"
 
 	# Add pagetitle to homepage <title> tag
-	pagetitle = "All about static site generation"
+	pagetitle = "Daniel Ray's blog"
 
 	# Add a subtitle to your website
 	subtitle = "Computer science and programming"
